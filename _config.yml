@@ -1,1 +1,3 @@
-remote_theme: TeaGuns/odin
+remote_theme: jekyll/minima
+minima:
+  skin: dark
