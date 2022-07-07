@@ -31,6 +31,7 @@ _Italic text_
 
 ### URL test
 [Google.com](https://google.com "Google.com")
+
 [Link to another page](./NewPage.md).
 
 ### Image test
