@@ -20,7 +20,7 @@ _Italic text_
 
 `Code text`
 
-![src](assets/qrcode_src.rybicki.dev.png)
+![Alternative text](assets/qrcode_src.rybicki.dev.png "Optional title")
 
 
 ### Table test
