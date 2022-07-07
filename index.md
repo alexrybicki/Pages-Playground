@@ -5,10 +5,19 @@ I'm just using this project to mess around with github-pages and markdown. I don
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+Horizontal line:
+* * *
 
 - List 1
 - List 2
 - List 3
+  - Nested a
+  - Nested b
+  - nested c 
 
 1. Number 1
 2. Number 2
