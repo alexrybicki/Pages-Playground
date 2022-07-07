@@ -20,6 +20,9 @@ _Italic text_
 
 `Code text`
 
+### URL test
+[Google.com](https://google.com "Google.com")
+
 ### Image test
 ![Alternative text](assets/qrcode_src.rybicki.dev.png "Optional title")
 
