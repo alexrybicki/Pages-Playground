@@ -20,7 +20,7 @@ _Italic text_
 
 `Code text`
 
-![img](src)
+![src](https://github.com/alexrybicki/urban-spoon/blob/gh-pages/assets/qrcode_src.rybicki.dev.png)
 
 
 ### Table test
