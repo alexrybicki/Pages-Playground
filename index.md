@@ -26,12 +26,12 @@ _Italic text_
 ### Image test
 ![Alternative text](assets/qrcode_src.rybicki.dev.png "Optional title")
 
-Getting crazy with images:
+Trying to break images:
 <img
   src="assets/PXL_20220527_201511277.PANO.jpg"
   alt="Japanese Maple Tree"
   title="Japanese Maple"
-  style="  padding: 15px 15px 0;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); -webkit-box-              shadow: 0 1px 3px rgba(34, 25, 25, 0.4);">
+  style="  padding: 15px 15px 15px;  background-color: white;  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4); -moz-box-shadow: 0 1px 2px rgba(34,25,25,0.4); -webkit-box-              shadow: 0 1px 3px rgba(34, 25, 25, 0.4);">
   
 <!-- ![Japanese Maple](assets/PXL_20220527_201511277.PANO.jpg "Japanese Maple Tree") -->
 
