@@ -21,3 +21,10 @@ _Italic text_
 `Code text`
 
 ![img](src)
+
+```seq
+Tester1->Tester2: Says Hello 
+Note right of Tester2: Tester2 thinks\nabout it 
+Tester2-->Tester1: How are you? 
+Tester1->>Tester2: I am good thanks!
+```
