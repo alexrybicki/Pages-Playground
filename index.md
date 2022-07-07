@@ -20,6 +20,7 @@ _Italic text_
 
 `Code text`
 
+### Image test
 ![Alternative text](assets/qrcode_src.rybicki.dev.png "Optional title")
 
 
