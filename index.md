@@ -1,6 +1,6 @@
 ## Welcome
 
-I'm just using this project to mess around with github-pages and markdown. I don't know why you're here. But enjoy I guess ¯\\_(ツ)_/¯
+I'm just using this project to mess around with github-pages and markdown. I don't know why you're here. But enjoy I guess &macr;\\_(ツ)_/&macr;
 
 # Header 1
 ## Header 2
