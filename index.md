@@ -65,9 +65,20 @@ Trying to break images:
 
 Do HTML tables work?
 <table>
-<thead>
+<tbody>
   <tr>
-    <td></td>
+    <td>a</td>
+    <td>b</td>
+    <td>c</td>
   </tr>
-</thead>
-</table>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>x</td>
+    <td>y</td>
+    <td>z</td>
+  </tr>
+</tbody>
