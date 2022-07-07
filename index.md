@@ -32,7 +32,9 @@ _Italic text_
 ### URL test
 [Google.com](https://google.com "Google.com")
 
-[Link to another page](./NewPage.md).
+[Link to another page](./NewPage.md)
+
+[404 Page](./this_page_doesnt_exist.md "Intentionally broken link")
 
 ### Image test
 ![Alternative text](assets/qrcode_src.rybicki.dev.png "Optional title")
