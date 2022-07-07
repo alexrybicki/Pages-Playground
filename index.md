@@ -64,9 +64,11 @@ Trying to break images:
 Do HTML tables work?
 <table>
   <thead>
-    <td>!</td>
-    <td>@</td>
-    <td>#</td>
+    <tr>
+    <th>!</th>
+    <th>@</th>
+    <th>#</th>
+    </tr>
   </thead>
 <tbody>
   <tr>
