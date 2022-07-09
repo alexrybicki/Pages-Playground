@@ -4,9 +4,3 @@
   Lorem ipsum was here. 
   
 [back](./)
-
-***
-
-<script>
-    document.write('<a href="' + document.referrer + '">Browser back(JS) </a>');
-</script>
