@@ -34,7 +34,7 @@ _Italic text_
 
 [Link to another page](./NewPage.md)
 
-[404 Page](https://src.rybicki.dev/Pages-Playground/404 "Broken link")
+[404 Page](./404 "Broken link")
 
 ### Image test
 ![Alternative text](assets/qrcode_src.rybicki.dev.png "Optional title")
