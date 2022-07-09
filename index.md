@@ -37,7 +37,7 @@ _Italic text_
 [404 Page](./404 "Broken link")
 
 ### Image test
-![Alternative text](assets/qrcode_src.rybicki.dev.png "Optional title")
+![Alternative text](./assets/qrcode_src.rybicki.dev.png "Optional title")
 
 Trying to break images:
 <img
