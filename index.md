@@ -95,31 +95,36 @@ Do HTML tables work?
       #e76e60
     </p>
   </div>
-
+  
+  <br>
   <div style="background-color: #f06191; width: 13px; height: 13px; float: left">
     <p style="/* left: 20px; */ margin-left: 20px; margin-top: -5px; float: left">
       #f06191
     </p>
   </div>
-
+  
+  <br>
   <div style="background-color: #ca75da; width: 13px; height: 13px; float: left">
     <p style="/* left: 20px; */ margin-left: 20px; margin-top: -5px; float: left">
       #ca75da
     </p>
   </div>
-
+  
+  <br>
   <div style="background-color: #8f7fe1; width: 13px; height: 13px; float: left">
     <p style="/* left: 20px; */ margin-left: 20px; margin-top: -5px; float: left">
       #8f7fe1
     </p>
   </div>
 
+  <br>
   <div style="background-color: #6aa5e1; width: 13px; height: 13px; float: left">
     <p style="/* left: 20px; */ margin-left: 20px; margin-top: -5px; float: left">
       #6aa5e1
     </p>
   </div>
 
+  <br>
   <div style="background-color: #5bd397; width: 13px; height: 13px; float: left">
     <p style="/* left: 20px; */ margin-left: 20px; margin-top: -5px; float: left">
       #5bd397
