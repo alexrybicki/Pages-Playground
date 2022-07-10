@@ -61,7 +61,8 @@ Trying to break images:
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-Do HTML tables work?
+##### Do HTML tables work?
+
 <div>
 <table>
   <thead>
@@ -88,7 +89,8 @@ Do HTML tables work?
     <td>z</td>
   </tr>
 </tbody>
-  </div>
+</table>
+</div>
   
   ### Complementry Colors
 
