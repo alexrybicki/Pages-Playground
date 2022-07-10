@@ -134,3 +134,8 @@ Trying to break images:
   </p>
 </div>
 <br>
+
+### Imbeded Youtube links
+`[![IMAGE_ALT](https://img.youtube.com/vi/1tIkDk9HUn8/0.jpg)](https://www.youtube.com/watch?v=1tIkDk9HUn8)`
+[![IMAGE_ALT](https://img.youtube.com/vi/1tIkDk9HUn8/0.jpg)](https://www.youtube.com/watch?v=1tIkDk9HUn8)
+
