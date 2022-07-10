@@ -62,6 +62,7 @@ Trying to break images:
 | zebra stripes | are neat      |    $1 |
 
 Do HTML tables work?
+<div>
 <table>
   <thead>
     <tr>
@@ -87,8 +88,9 @@ Do HTML tables work?
     <td>z</td>
   </tr>
 </tbody>
+  </div>
   
-### Some colors that look good:
+  ### Complementry Colors
 
   <div style="background-color: #e76e60; width: 13px; height: 13px; float: left">
     <p style="/* left: 20px; */ margin-left: 20px; margin-top: -5px; float: left">
